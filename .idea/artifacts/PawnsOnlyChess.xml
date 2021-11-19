@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="PawnsOnlyChess">
+    <output-path>$PROJECT_DIR$/out/artifacts/PawnsOnlyChess</output-path>
+    <root id="root">
+      <element id="archive" name="PawnsOnlyChess.jar">
+        <element id="module-output" name="PawnsOnlyChess" />
+      </element>
+    </root>
+  </artifact>
+</component>
